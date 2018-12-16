@@ -1,3 +1,7 @@
+#!/bin/bash
+
+set -e
+
 # navigate into our frontend directory
 cd frontend/
 

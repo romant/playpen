@@ -1,3 +1,7 @@
+#!/bin/bash
+
+set -e
+
 # we need to install the serverless cli
 npm install -g serverless
 
